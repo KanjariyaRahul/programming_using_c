@@ -1,0 +1,18 @@
+//write a program to print first n natural numbers using while loop
+#include <stdio.h>
+
+int main()
+{
+    int i, num;
+
+    printf("Print all natural numbers from 1 to : ");
+    scanf("%d", &num);
+    i=1;
+    while(i<=num)
+    {
+        printf("%d\n", i);
+        i++;
+    }
+
+    return 0;
+}
