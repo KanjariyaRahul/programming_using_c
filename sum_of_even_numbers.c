@@ -1,4 +1,5 @@
-//Write a program to find the sum of even numbers.
+//write a program calculate sum of even numbers from 1 to n using for loop.
+
 #include <stdio.h>
 #include <stdlib.h>
 
